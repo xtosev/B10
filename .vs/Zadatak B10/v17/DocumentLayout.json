@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daki\\Downloads\\B10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C80986D-85B7-46B4-AFFD-D9DB7227B2CC}|Zadatak B10.csproj|c:\\users\\daki\\downloads\\b10\\dodavanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C80986D-85B7-46B4-AFFD-D9DB7227B2CC}|Zadatak B10.csproj|solutionrelative:dodavanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dodavanje.aspx",
+              "DocumentMoniker": "C:\\Users\\Daki\\Downloads\\B10\\Dodavanje.aspx",
+              "RelativeDocumentMoniker": "Dodavanje.aspx",
+              "ToolTip": "C:\\Users\\Daki\\Downloads\\B10\\Dodavanje.aspx",
+              "RelativeToolTip": "Dodavanje.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-29T13:30:27.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

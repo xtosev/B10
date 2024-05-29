@@ -1,0 +1,56 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+    background-color: steelblue;
+    align-items: center;
+}
+
+header p{
+    font-size:30px;
+    color:white;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    background-color: midnightblue;
+    padding-left:10px;
+}
+
+.menu .dumge {
+    width: 150px;
+    height: 30px;
+    background-color: royalblue;
+    color: white;
+}
+
+
+        .auto-style2 {
+            width: 100%;
+        }
+
+        .auto-style3 {
+            height: 23px;
+        }
+        .auto-style4 {
+            height: 23px;
+            width: 89px;
+        }
+        .auto-style5 {
+            width: 89px;
+        }
+
+        .auto-style6 {
+            width: 89px;
+            height: 108px;
+        }
+        .auto-style7 {
+            height: 108px;
+        }
+        
